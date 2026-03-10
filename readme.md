@@ -3,7 +3,7 @@ title: 'Calliope mini 3'
 date: '2025-11-23T23:38:00.000Z'
 tags:
     - 'controller'
-coverImage: '2_calliope_mini.png'
+coverImage: 'Calliope3_1200px.png'
 material_number: '2'
 material_type: 'controller'
 manufacture: 'Calliope gGmbH'
