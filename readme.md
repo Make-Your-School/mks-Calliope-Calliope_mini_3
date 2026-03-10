@@ -20,7 +20,7 @@ difficulty: 'recommend'
 
 # Calliope mini
 
-![Calliope mini 3](./bauteil.png)
+![Calliope mini 3](./Calliope3_1200px.png)
 
 ## Beschreibung
 
